@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cuv:home|Door43 (cuv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cuv|d43-cuv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cuv/archive/master.zip|d43-cuv.zip]]
+
+**Recent Changes**
+{{changes>ns = cuv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cuv|Ethnologue data]]
+
